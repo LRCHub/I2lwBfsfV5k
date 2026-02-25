@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "小さきもの",
+  "base_artist": "Asuca Hayashi",
+  "createdAt": "2026-02-25T09:00:19.536721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小さきもの",
+      "artist": "林明日香",
+      "has_synced": true,
+      "path": "select/01_小さきもの_林明日香.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "小さきもの",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/02_小さきもの_Various.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "小さきもの",
+      "artist": "Asuca Hayashi",
+      "has_synced": false,
+      "path": "select/03_小さきもの_Asuca_Hayashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "小さきもの",
+      "artist": "まらしぃ",
+      "has_synced": false,
+      "path": "select/04_小さきもの_まらしぃ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "小さきもの",
+      "artist": "如月千早(CV.今井麻美)",
+      "has_synced": true,
+      "path": "select/05_小さきもの_如月千早(CV.今井麻美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "小さきもの",
+      "artist": "如月千早",
+      "has_synced": true,
+      "path": "select/06_小さきもの_如月千早.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さきもの",
+      "artist": "Asuca Hayashi",
+      "has_synced": false,
+      "path": "select/pl_01_小さきもの_Asuca_Hayashi.txt"
+    }
+  ]
+}
